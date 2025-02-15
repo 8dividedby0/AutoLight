@@ -1,0 +1,16 @@
+C:\Users\jneal\source\repos\AutoLight Settings\AutoLight Settings\bin\Release\net8.0-windows\AutoLight Settings.exe
+C:\Users\jneal\source\repos\AutoLight Settings\AutoLight Settings\bin\Release\net8.0-windows\AutoLight Settings.deps.json
+C:\Users\jneal\source\repos\AutoLight Settings\AutoLight Settings\bin\Release\net8.0-windows\AutoLight Settings.runtimeconfig.json
+C:\Users\jneal\source\repos\AutoLight Settings\AutoLight Settings\bin\Release\net8.0-windows\AutoLight Settings.dll
+C:\Users\jneal\source\repos\AutoLight Settings\AutoLight Settings\bin\Release\net8.0-windows\AutoLight Settings.pdb
+C:\Users\jneal\source\repos\AutoLight Settings\AutoLight Settings\obj\Release\net8.0-windows\AutoLight_Settings.Form1.resources
+C:\Users\jneal\source\repos\AutoLight Settings\AutoLight Settings\obj\Release\net8.0-windows\AutoLight Settings.csproj.GenerateResource.cache
+C:\Users\jneal\source\repos\AutoLight Settings\AutoLight Settings\obj\Release\net8.0-windows\AutoLight Settings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jneal\source\repos\AutoLight Settings\AutoLight Settings\obj\Release\net8.0-windows\AutoLight Settings.AssemblyInfoInputs.cache
+C:\Users\jneal\source\repos\AutoLight Settings\AutoLight Settings\obj\Release\net8.0-windows\AutoLight Settings.AssemblyInfo.cs
+C:\Users\jneal\source\repos\AutoLight Settings\AutoLight Settings\obj\Release\net8.0-windows\AutoLight Settings.csproj.CoreCompileInputs.cache
+C:\Users\jneal\source\repos\AutoLight Settings\AutoLight Settings\obj\Release\net8.0-windows\AutoLight Settings.dll
+C:\Users\jneal\source\repos\AutoLight Settings\AutoLight Settings\obj\Release\net8.0-windows\refint\AutoLight Settings.dll
+C:\Users\jneal\source\repos\AutoLight Settings\AutoLight Settings\obj\Release\net8.0-windows\AutoLight Settings.pdb
+C:\Users\jneal\source\repos\AutoLight Settings\AutoLight Settings\obj\Release\net8.0-windows\AutoLight Settings.genruntimeconfig.cache
+C:\Users\jneal\source\repos\AutoLight Settings\AutoLight Settings\obj\Release\net8.0-windows\ref\AutoLight Settings.dll
