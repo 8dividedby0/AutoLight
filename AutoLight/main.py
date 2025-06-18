@@ -54,7 +54,7 @@ def readSettings():
     # check for errors in vals
 
     if settings["SwitchLightHour"] > settings["SwitchDarkHour"] and not settings["CrossesMidnight"]: # dark hour is greater than light hour without crossing midnight
-        Mbox("AutoLight", "Error in settings file:\nSwitch to light hour must not be greater than Switch to dark hour without crossing midnight.\nWe must now terminate. We will also open settings for you to correct this.")
+        Mbox("AutoLight", "Error in settings file:\n<Switch to light hour> must not be greater than <Switch to dark hour> without crossing midnight.\nWe must now terminate. We will also open settings for you to correct this.")
         openSettings()
         try: #try to run terminate, will error if icon is not defined
             terminate(icon)
